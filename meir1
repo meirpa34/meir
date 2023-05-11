@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Funny HTML Code</title>
+</head>
+<body>
+  <h1>This is some funny HTML code!</h1>
+  <p>Here is a list of some funny HTML tags:</p>
+  <ul>
+    <li><b>blink</b> - This tag makes the text blink.</li>
+    <li><marquee>This text will scroll across the screen.</marquee></li>
+    <li><font color="hotpink">This text will be pink.</font></li>
+    <li><strike>This text will be crossed out.</strike></li>
+    <li><big>This text will be big.</big></li>
+    <li><small>This text will be small.</small></li>
+  </ul>
+  <p>I hope you enjoyed this funny HTML code!</p>
+</body>
+</html>
